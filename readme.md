@@ -3,7 +3,6 @@
 A clean and modular starter template for building secure authentication APIs using **Node.js**, **Express**, **TypeScript**, and **JWT (JSON Web Tokens)**.
 
 ## 📂 Project Structure
-```
 
 ```
 ├── config/         # Database & environment configurations
@@ -16,7 +15,6 @@ A clean and modular starter template for building secure authentication APIs usi
 └── .gitignore
 ```
 
-````markdown
 ## ⚙️ Features
 - 🔑 JWT-based authentication (login, register, verify)
 - 🧱 Modular folder structure
